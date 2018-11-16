@@ -1,0 +1,12 @@
+label{
+    display: block;
+}
+textarea{
+    width: 200px;
+    height: 100px;
+    margin-top: 4px;
+}
+input{
+    position: absolute;
+    left: 90px;
+}
